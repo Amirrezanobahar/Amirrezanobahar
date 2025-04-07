@@ -9,8 +9,8 @@
 
 ## 📈 GitHub Stats  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amirrezanobahar&show_icons=true&theme=default&hide_title=true)](https://github.com/Amirrezanobahar)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirrezanobahar&layout=compact&hide_title=true)](https://github.com/Amirrezanobahar)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amirrezanobahar&show_icons=true&theme=radical)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirrezanobahar&exclude_repo=github-readme-stats,anuraghazra.github.io)  
 
 
 ## 📫 Let's Connect  
